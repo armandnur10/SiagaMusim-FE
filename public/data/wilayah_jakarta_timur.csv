@@ -1,0 +1,66 @@
+id_kelurahan,kota,kecamatan,kelurahan,penduduk,luas_km2,lat,lon
+cakung-barat,Jakarta Timur,Cakung,Cakung Barat,63440,5.749,-6.17396,106.93565
+cakung-timur,Jakarta Timur,Cakung,Cakung Timur,146200,8.445,-6.17170,106.95521
+jatinegara,Jakarta Timur,Cakung,Jatinegara,88110,6.408,-6.20384,106.91601
+penggilingan,Jakarta Timur,Cakung,Penggilingan,56620,4.469,-6.20499,106.93486
+pulo-gebang,Jakarta Timur,Cakung,Pulo Gebang,106330,6.705,-6.20511,106.95294
+rawa-terate,Jakarta Timur,Cakung,Rawa Terate,44210,4.386,-6.18488,106.92026
+ujung-menteng,Jakarta Timur,Cakung,Ujung Menteng,56090,4.359,-6.18671,106.96347
+bambu-apus,Jakarta Timur,Cipayung,Bambu Apus,33650,3.200,-6.31325,106.90223
+ceger,Jakarta Timur,Cipayung,Ceger,43560,3.587,-6.30742,106.89254
+cilangkap,Jakarta Timur,Cipayung,Cilangkap,56220,5.680,-6.33368,106.90866
+cipayung,Jakarta Timur,Cipayung,Cipayung,28430,2.472,-6.32902,106.89393
+lubang-buaya,Jakarta Timur,Cipayung,Lubang Buaya,32560,3.716,-6.29414,106.90363
+munjul,Jakarta Timur,Cipayung,Munjul,20280,1.938,-6.34791,106.89541
+pondok-ranggon,Jakarta Timur,Cipayung,Pondok Ranggon,46060,5.237,-6.35634,106.90660
+setu,Jakarta Timur,Cipayung,Setu,28240,2.823,-6.31304,106.91485
+cibubur,Jakarta Timur,Ciracas,Cibubur,88960,4.863,-6.35719,106.88240
+ciracas,Jakarta Timur,Ciracas,Ciracas,66240,3.923,-6.32600,106.87549
+kelapa-dua-wetan,Jakarta Timur,Ciracas,Kelapa Dua Wetan,62110,3.401,-6.34100,106.88303
+rambutan,Jakarta Timur,Ciracas,Rambutan,39200,2.304,-6.30739,106.87783
+susukan,Jakarta Timur,Ciracas,Susukan,44500,2.133,-6.31275,106.86881
+duren-sawit,Jakarta Timur,Duren Sawit,Duren Sawit,87630,4.616,-6.23325,106.91583
+klender,Jakarta Timur,Duren Sawit,Klender,62490,2.979,-6.21861,106.90807
+malaka-jaya,Jakarta Timur,Duren Sawit,Malaka Jaya,22590,1.087,-6.22360,106.93501
+malaka-sari,Jakarta Timur,Duren Sawit,Malaka Sari,24520,1.303,-6.22389,106.92846
+pondok-bambu,Jakarta Timur,Duren Sawit,Pondok Bambu,76070,4.078,-6.23473,106.90094
+pondok-kelapa,Jakarta Timur,Duren Sawit,Pondok Kelapa,110140,5.800,-6.24351,106.93195
+pondok-kopi,Jakarta Timur,Duren Sawit,Pondok Kopi,37550,2.239,-6.22716,106.94269
+bali-mester,Jakarta Timur,Jatinegara,Bali Mester,22210,0.674,-6.21949,106.86632
+bidara-cina,Jakarta Timur,Jatinegara,Bidara Cina,40420,1.245,-6.23532,106.86694
+cipinang-besar-selatan,Jakarta Timur,Jatinegara,Cipinang Besar Selatan,41170,1.658,-6.22958,106.88072
+cipinang-besar-utara,Jakarta Timur,Jatinegara,Cipinang Besar Utara,40070,1.121,-6.21864,106.87965
+cipinang-cempedak,Jakarta Timur,Jatinegara,Cipinang Cempedak,52120,1.655,-6.23684,106.87348
+cipinang-muara,Jakarta Timur,Jatinegara,Cipinang Muara,68560,2.725,-6.22635,106.88916
+kampung-melayu,Jakarta Timur,Jatinegara,Kampung Melayu,14220,0.466,-6.21718,106.86123
+rawa-bunga,Jakarta Timur,Jatinegara,Rawa Bunga,22230,0.850,-6.22010,106.87139
+balekambang,Jakarta Timur,Kramat Jati,Balekambang,41940,1.686,-6.28158,106.85278
+batu-ampar,Jakarta Timur,Kramat Jati,Batu Ampar,66000,2.554,-6.27908,106.86107
+cawang,Jakarta Timur,Kramat Jati,Cawang,41380,1.818,-6.25084,106.86672
+cililitan,Jakarta Timur,Kramat Jati,Cililitan,41050,1.783,-6.26246,106.86447
+dukuh,Jakarta Timur,Kramat Jati,Dukuh,36710,1.710,-6.29610,106.87779
+kramat-jati,Jakarta Timur,Kramat Jati,Kramat Jati,36610,1.518,-6.27418,106.87076
+tengah,Jakarta Timur,Kramat Jati,Tengah,36310,2.010,-6.28974,106.86669
+cipinang-melayu,Jakarta Timur,Makasar,Cipinang Melayu,61390,2.636,-6.24941,106.90591
+halim-perdana-kusuma,Jakarta Timur,Makasar,Halim Perdana Kusuma,48060,12.884,-6.26580,106.89330
+kebon-pala,Jakarta Timur,Makasar,Kebon Pala,31080,2.318,-6.25576,106.87774
+makasar,Jakarta Timur,Makasar,Makasar,23700,1.416,-6.27536,106.87701
+pinang-ranti,Jakarta Timur,Makasar,Pinang Ranti,40770,2.084,-6.28944,106.88422
+kayu-manis,Jakarta Timur,Matraman,Kayu Manis,23990,0.546,-6.20270,106.86222
+kebon-manggis,Jakarta Timur,Matraman,Kebon Manggis,26460,0.787,-6.20727,106.85534
+palmeriam,Jakarta Timur,Matraman,Palmeriam,19840,0.638,-6.20366,106.85900
+pisangan-baru,Jakarta Timur,Matraman,Pisangan Baru,27460,0.733,-6.21172,106.86892
+utan-kayu-selatan,Jakarta Timur,Matraman,Utan Kayu Selatan,32820,1.137,-6.20356,106.86904
+utan-kayu-utara,Jakarta Timur,Matraman,Utan Kayu Utara,41430,0.989,-6.19567,106.86811
+baru,Jakarta Timur,Pasar Rebo,Baru,26540,1.900,-6.32426,106.84695
+cijantung,Jakarta Timur,Pasar Rebo,Cijantung,41910,2.564,-6.32142,106.85857
+gedong,Jakarta Timur,Pasar Rebo,Gedong,38430,2.536,-6.30181,106.85998
+kalisari,Jakarta Timur,Pasar Rebo,Kalisari,49050,2.585,-6.33522,106.85318
+pekayon,Jakarta Timur,Pasar Rebo,Pekayon,68080,3.093,-6.34526,106.86438
+cipinang,Jakarta Timur,Pulo Gadung,Cipinang,30080,1.494,-6.20758,106.89123
+jati,Jakarta Timur,Pulo Gadung,Jati,40000,2.116,-6.19457,106.89703
+jatinegara-kaum,Jakarta Timur,Pulo Gadung,Jatinegara Kaum,26670,1.279,-6.20245,106.90143
+kayu-putih,Jakarta Timur,Pulo Gadung,Kayu Putih,72700,3.842,-6.17928,106.88366
+pisangan-timur,Jakarta Timur,Pulo Gadung,Pisangan Timur,30140,1.842,-6.20863,106.88011
+pulo-gadung,Jakarta Timur,Pulo Gadung,Pulo Gadung,33020,1.774,-6.18299,106.89887
+rawamangun,Jakarta Timur,Pulo Gadung,Rawamangun,56390,2.670,-6.19585,106.88242

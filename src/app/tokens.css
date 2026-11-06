@@ -1,0 +1,38 @@
+/* Token desain Siaga Musim — tema terang "buletin surveilans": tenang, klinis, mudah dipindai. */
+:root {
+  --font-sans: 'Plus Jakarta Sans Variable', 'Plus Jakarta Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono Variable', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Permukaan */
+  --bg: #f2f5f4;
+  --surface: #ffffff;
+  --surface-2: #f7f9f8;
+  --sunken: #e8edeb;
+
+  /* Tinta */
+  --ink: #10201e;
+  --ink-2: #44534f;
+  --muted: #6f7d79;
+  --line: #dbe3e0;
+  --line-strong: #c3cec9;
+
+  /* Merek: teal tua */
+  --brand: #0b5a63;
+  --brand-strong: #073f46;
+  --brand-soft: #e0f0ef;
+  --brand-deep: #0a2b30; /* sidebar & blok gelap */
+
+  /* Curah hujan */
+  --rain: #2a78d6;
+  --rain-soft: #dce9fa;
+  --rain-text: #1c5cab;
+
+  /* Krom grafik */
+  --chart-grid: #e6ecea;
+  --chart-axis: #c3cec9;
+
+  --radius-card: 14px;
+  --shadow-card: 0 1px 2px rgba(16, 32, 30, 0.04), 0 4px 16px rgba(16, 32, 30, 0.04);
+  --shadow-pop: 0 8px 28px rgba(16, 32, 30, 0.14), 0 1px 3px rgba(16, 32, 30, 0.08);
+  --focus-ring: #0b5a63;
+}
